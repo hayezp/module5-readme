@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the backend API for the Book Tracker application. It is built using Node.js, Express, and PostgreSQL. The API allows users to retrieve, add, and update book data stored in a database.
+This is the backend API for the Book Tracker application. It is built using Node.js, Render, Netlify and PostgreSQL. The API allows users to retrieve, add, and update book data stored within a database.
 
 ## Installation & Setup
 
@@ -73,7 +73,7 @@ CREATE TABLE books (
 
 ## Authentication & Security
 
-This API does not currently use authentication. It is open for learning purposes.
+This API does not have any current authentication. It is open for a class project and learning purposes.
 
 ## Deployment Guide
 
@@ -86,14 +86,14 @@ https://module5-backend-api.onrender.com/api/v1/books
 ```
 
 ## Contributing
+If you want to make changes to this project, you can:
 
-To contribute:
+1. Make a copy of the project (fork it)
+2. Make your changes
+3. Submit your changes
 
-1. Fork the repo
-2. Create a branch
-3. Make changes
-4. Submit a pull request
+This project has been created for learning purposes in a programming class, so contributions are not required, but are gratefully accepted.
 
 ## License
 
-This project uses the MIT License.
+This project is for school and learning purposes. There is no official license applied.

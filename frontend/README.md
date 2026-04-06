@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the frontend for the Book Tracker application. It is a simple website built using HTML, CSS, and JavaScript. The purpose of this project is to allow users to view, add, and update book data using a backend API.
+This is the frontend (web) for the Book Tracker application. It is a simple website built using HTML, CSS, and JavaScript. The purpose of this project is to allow users to view, add, and update book data using a backend API.
 
 ## Table of Contents
 
@@ -49,14 +49,13 @@ fetch("https://module5-backend-api.onrender.com/api/v1/books")
 ```
 
 ## Contributing
+If you want to make changes to this project, you can:
 
-To contribute:
+1. Make a copy of the project (fork it)
+2. Make your changes
+3. Submit your changes
 
-1. Fork the repository
-2. Create a new branch
-3. Make changes
-4. Submit a pull request
+This project was mainly created for learning purposes, so contributions are not required.
 
 ## License
-
-This project is licensed under the MIT License.
+This project is for school and learning purposes. No official license is applied to this.
